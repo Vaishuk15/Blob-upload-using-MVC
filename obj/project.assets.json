@@ -588,11 +588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VaishnaviKanagaraj\\source\\repos\\BlobUpload\\BlobUpload.csproj",
+      "projectUniqueName": "D:\\projects\\BlobUpload\\BlobUpload.csproj",
       "projectName": "BlobUpload",
-      "projectPath": "C:\\Users\\VaishnaviKanagaraj\\source\\repos\\BlobUpload\\BlobUpload.csproj",
+      "projectPath": "D:\\projects\\BlobUpload\\BlobUpload.csproj",
       "packagesPath": "C:\\Users\\VaishnaviKanagaraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VaishnaviKanagaraj\\source\\repos\\BlobUpload\\obj\\",
+      "outputPath": "D:\\projects\\BlobUpload\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VaishnaviKanagaraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
